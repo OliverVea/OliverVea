@@ -16,7 +16,7 @@ Outside work I build across the stack, from published .NET libraries to a multip
 
 **Libraries on NuGet**
 
-- [Olve.Utilities](https://github.com/OliverVea/Olve.Utilities): result types, typed IDs, paths, validation and more, with a Claude Code skill for each package ([docs](https://olivervea.github.io/Olve.Utilities/))
+- [Olve.Utilities](https://github.com/OliverVea/Olve.Utilities): result types, typed IDs, paths, validation and more, with Claude Code skills for the packages ([docs](https://olivervea.github.io/Olve.Utilities/))
 - [Olve.Grids](https://github.com/OliverVea/Olve.Grids): procedural tile-map generation
 - [CsvSourceGeneration](https://github.com/OliverVea/CsvSourceGeneration): typed C# classes generated from CSV files
 
