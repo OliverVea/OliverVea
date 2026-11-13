@@ -1,6 +1,8 @@
 ### Oliver Vea
 
-Software engineer at Amazon in Tokyo, building Java and AWS services for Amazon Japan: checkout, the points program and seller fees. Before that I developed the Bizzkit e-commerce platform and its search API in .NET, in Denmark. M.Sc. in Advanced Robotics Technology from SDU.
+Software engineer at Amazon in Tokyo, building Java and AWS services for [amazon.co.jp](https://www.amazon.co.jp/): checkout, the points program and seller fees. If you see a points deal on a product page, I probably had a hand in it.
+
+Before that I developed the [Bizzkit](https://www.bizzkit.com/) e-commerce platform in .NET in Denmark, including the API for [Bizzkit Ecommerce Search](https://www.bizzkit.com/products/search). M.Sc. in Advanced Robotics Technology from SDU.
 
 Outside work I build across the stack, from published .NET libraries to a multiplayer game server in C++, all deployed to a Kubernetes homelab by a CD service I wrote for it.
 
