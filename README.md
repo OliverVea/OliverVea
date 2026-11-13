@@ -1,0 +1,20 @@
+### Oliver Vea
+
+Software engineer at Amazon in Tokyo, building Java and AWS services for Amazon Japan: checkout, the points program and seller fees. Before that I developed the Bizzkit e-commerce platform and its search API in .NET, in Denmark. M.Sc. in Advanced Robotics Technology from SDU.
+
+Outside work I build across the stack, from published .NET libraries to a multiplayer game server in C++, all deployed to a Kubernetes homelab by a CD service I wrote for it.
+
+**Projects**
+
+- [QuestionBank](https://github.com/OliverVea/QuestionBank): LLM-graded practice for physics and maths textbooks. [Try the demo](https://questionbank-demo.ovea.pro), no sign-up needed.
+- [Olve.SlimeRepublics](https://github.com/OliverVea/Olve.SlimeRepublics): a multiplayer browser game with a C++23 server and a TypeScript client.
+- [Olve.Pipelines](https://github.com/OliverVea/Olve.Pipelines): GitOps CD for a homelab, with pipelines defined in TypeScript and run as Kubernetes Jobs.
+- [Olve.Template.Api](https://github.com/OliverVea/Olve.Template.Api): a `dotnet new` template for spec-first .NET API services, from contract to Helm chart and deploy pipeline.
+
+**Libraries on NuGet**
+
+- [Olve.Utilities](https://github.com/OliverVea/Olve.Utilities): result types, typed IDs, paths, validation and more ([docs](https://olivervea.github.io/Olve.Utilities/))
+- [Olve.Grids](https://github.com/OliverVea/Olve.Grids): procedural tile-map generation
+- [CsvSourceGeneration](https://github.com/OliverVea/CsvSourceGeneration): typed C# classes generated from CSV files
+
+[LinkedIn](https://www.linkedin.com/in/oliver-vea/)
